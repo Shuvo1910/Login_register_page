@@ -6,6 +6,6 @@
 4. Login Register popup form
 5. Left-right slide animation (Login Register page redirect link).
 
-Live outlook:
+Visual Overview:
 
 https://github.com/user-attachments/assets/d6b98cd0-02f8-4b38-965f-25b0c2bdde15
